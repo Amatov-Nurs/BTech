@@ -8,6 +8,7 @@ body {
     width: 100%;
 }
 .btn {
+    width: max-content;
     height: 48px;
     cursor: pointer;
     font-weight: 600;
@@ -23,4 +24,8 @@ body {
 }
 .btn:hover {
     background: #F8F041;
+}
+.container{
+    width: 100%;
+    padding: 0 112px;
 }
